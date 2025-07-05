@@ -1,5 +1,12 @@
 import React from 'react'
 import { IoIosSend } from "react-icons/io";
+import axios from 'axios';
+
+async function generateAns() {
+    const response = await axios({
+        method:post
+    })
+}
 
 const Navbar = () => {
     return (
