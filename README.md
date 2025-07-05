@@ -1,12 +1,21 @@
-# React + Vite
+<h1 align="center">🧠 AI Chatbot — Built with React.js</h1>
+<p align="center"><strong>Smart, Clean, and Responsive Chat Experience — Powered by Gemini AI</strong></p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=Built+with+React.js+%26+TailwindCSS;Powered+by+Google+Gemini+API;Designed+for+Fast+%26+Responsive+UX" alt="Typing animation" />
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧾 Project Overview
 
-## Expanding the ESLint configuration
+A fully responsive AI chatbot built with **React.js** and styled with **TailwindCSS**, leveraging Google’s **Gemini 1.5 API** for conversational intelligence. The app features:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Real-time chat interface with typing & loading animation
+- Enhanced markdown rendering using `react-markdown`
+- Syntax-highlighted code blocks (via `highlight.js`)
+- One-click copy buttons for AI responses
+- Mobile-friendly, performance-optimized UI
+- Clean component structure, built for scalability
+
+As a **B.Tech IT student & full-stack dev from Hyderabad**, I built this project to combine powerful APIs with sleek, intuitive design — demonstrating both technical and product sensibility.
